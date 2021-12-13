@@ -2,7 +2,6 @@
   "name": "react-api-apps",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://meigen.doodlenote.net",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
